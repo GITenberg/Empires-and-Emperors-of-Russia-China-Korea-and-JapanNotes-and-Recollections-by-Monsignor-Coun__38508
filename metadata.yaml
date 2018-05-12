@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39505'
     url: http://www.gutenberg.org/2009/agents/39505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38508#Empires-and-Emperors-of-Russia-China-Korea-and-JapanNotes-and-Recollections-by-Monsignor-Coun_
 gutenberg_issued: '2012-01-06'
 gutenberg_type: Text
 identifiers:
