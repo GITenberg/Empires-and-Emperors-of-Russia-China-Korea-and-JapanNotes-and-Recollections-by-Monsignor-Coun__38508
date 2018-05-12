@@ -1,0 +1,34 @@
+_repo: Empires-and-Emperors-of-Russia-China-Korea-and-JapanNotes-and-Recollections-by-Monsignor-Coun__38508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vay, Péter
+    aliases:
+    - Vay von Vaya und zu Luskod, Peter, Graf
+    - Vay de Vaya and Luskod, Péter, Count
+    - Vay Peter, Grof
+    - Vay Péter, Gróf
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '39505'
+    url: http://www.gutenberg.org/2009/agents/39505
+description: ''
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eastern question (Far East)'
+- !lcsh 'Asia -- Description and travel'
+- !lcc 'DS'
+title: 'Empires and Emperors of Russia, China, Korea, and Japan
+
+  Notes and Recollections by Monsignor Count Vay de Vaya and Luskod'
+url: http://www.gutenberg.org/ebooks/38508
